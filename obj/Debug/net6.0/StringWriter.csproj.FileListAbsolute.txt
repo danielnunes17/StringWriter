@@ -1,0 +1,15 @@
+C:\Work\C#\streams\StringWriter\bin\Debug\net6.0\StringWriter.exe
+C:\Work\C#\streams\StringWriter\bin\Debug\net6.0\StringWriter.deps.json
+C:\Work\C#\streams\StringWriter\bin\Debug\net6.0\StringWriter.runtimeconfig.json
+C:\Work\C#\streams\StringWriter\bin\Debug\net6.0\StringWriter.dll
+C:\Work\C#\streams\StringWriter\bin\Debug\net6.0\ref\StringWriter.dll
+C:\Work\C#\streams\StringWriter\bin\Debug\net6.0\StringWriter.pdb
+C:\Work\C#\streams\StringWriter\obj\Debug\net6.0\StringWriter.csproj.AssemblyReference.cache
+C:\Work\C#\streams\StringWriter\obj\Debug\net6.0\StringWriter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\C#\streams\StringWriter\obj\Debug\net6.0\StringWriter.AssemblyInfoInputs.cache
+C:\Work\C#\streams\StringWriter\obj\Debug\net6.0\StringWriter.AssemblyInfo.cs
+C:\Work\C#\streams\StringWriter\obj\Debug\net6.0\StringWriter.csproj.CoreCompileInputs.cache
+C:\Work\C#\streams\StringWriter\obj\Debug\net6.0\StringWriter.dll
+C:\Work\C#\streams\StringWriter\obj\Debug\net6.0\ref\StringWriter.dll
+C:\Work\C#\streams\StringWriter\obj\Debug\net6.0\StringWriter.pdb
+C:\Work\C#\streams\StringWriter\obj\Debug\net6.0\StringWriter.genruntimeconfig.cache
